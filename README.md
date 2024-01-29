@@ -1,2 +1,2 @@
-# ml-on-device-universe
+# Awesome Machine Learning On Device
 Machine Learning On-Device Universe 
