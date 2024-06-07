@@ -10,5 +10,16 @@ Machine Learning On-Device Universe
    [Song Han](https://hanlab.mit.edu/songhan)'s, MIT, lectures
 
    - TODO: Link relevant Youtube videos (preferably by year 😉)
-   
-4. ...
+
+3. Qualcomm on-device stack
+   1. [Tutorial videos about QNN? (or SNPE perhaps)](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/tutorial-videos)
+   1. [Academy: AI Innovators Dev Kit](https://academy.qualcomm.com/course-catalog/AI-on-QIDK)
+
+## Tools, SDKs and Compilers
+
+1. Qualcomm
+
+   1. [QNN: Qualcomm AI DIrect Engine SDK](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/qualcomm-ai-engine-direct)
+   2. [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/qualcomm-neural-processing-sdk-ai)
+
+2. Apache TVM
