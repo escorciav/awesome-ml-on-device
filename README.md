@@ -23,3 +23,10 @@ Machine Learning On-Device Universe
    2. [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/qualcomm-neural-processing-sdk-ai)
 
 2. Apache TVM
+
+## On-Device AI, CPU & GPU-based AI
+
+1. Hardware for non-EE literate folks
+    - [SoC and Progress in Energy Efficient Computing - Video 1](https://youtu.be/NKfW8ijmRQ4)
+    - [SoC and Progress in Energy Efficient Computing - Video 2](https://youtu.be/L4XemL7t6hg)
+
