@@ -32,6 +32,8 @@ Machine Learning On-Device Universe
 
 ## TODO
 
-- [ ] Adopt template. Move my stuff onto a default branch.
+- [ ] [Adopt template from here](https://github.com/gigwegbe/tinyml-papers-and-projects).
 
-- [ ] Adopt their convention & merge any new insgiht of mine.
+- [ ] Move my stuff onto a default branch.
+
+-s [ ] Adopt their convention & merge any new insgiht of mine.
