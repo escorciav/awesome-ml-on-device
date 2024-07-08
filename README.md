@@ -15,11 +15,12 @@ Machine Learning On-Device Universe
    1. [Tutorial videos about QNN? (or SNPE perhaps)](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/tutorial-videos)
    1. [Academy: AI Innovators Dev Kit](https://academy.qualcomm.com/course-catalog/AI-on-QIDK)
 
-## Tools, SDKs and Compilers
+## Tools, SDKs, and Compilers
 
 1. Qualcomm
 
-   1. [QNN: Qualcomm AI DIrect Engine SDK](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/qualcomm-ai-engine-direct)
+   1. [Qualcomm AI Direct Engine SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk)
+       1. [QNN docs](https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/introduction.html)
    2. [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/qualcomm-neural-processing-sdk-ai)
 
 2. Apache TVM
@@ -36,4 +37,4 @@ Machine Learning On-Device Universe
 
 - [ ] Move my stuff onto a default branch.
 
--s [ ] Adopt their convention & merge any new insgiht of mine.
+- [ ] Adopt their convention & merge any new insgiht of mine.
