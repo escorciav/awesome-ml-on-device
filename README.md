@@ -25,6 +25,10 @@ Machine Learning On-Device Universe
 
 2. Apache TVM
 
+1. TensorRT
+   1. [Supercharge Your PyTorch Image Models with ONNX and TensorRT](https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/): Optimize PyTorch image models using ONNX Runtime and TensorRT, achieving up to 8x faster inference speeds.
+
+
 ## On-Device AI, CPU & GPU-based AI
 
 1. Hardware for non-EE literate folks
