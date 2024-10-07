@@ -27,7 +27,9 @@ Machine Learning On-Device Universe
 
 1. TensorRT
    1. [Supercharge Your PyTorch Image Models with ONNX and TensorRT](https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/): Optimize PyTorch image models using ONNX Runtime and TensorRT, achieving up to 8x faster inference speeds.
-
+  
+1. Huawei Mobile NPU
+    1. [Huawei HiAI](https://developer.huawei.com/consumer/en/doc/hiai-Guides/introduction-0000001053217795)
 
 ## On-Device AI, CPU & GPU-based AI
 
