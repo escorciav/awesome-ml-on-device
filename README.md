@@ -17,6 +17,16 @@ Machine Learning On-Device Universe
 
 ## Tools, SDKs, and Compilers
 
+1. PyTorch
+
+    2. Torchscript
+    3. [Executorch](https://github.com/pytorch/executorch), [docs & tutorials](https://pytorch.org/executorch/stable/index.html)
+    4. PyTorch Mobile (deprecated?)
+    5. Converters to other frameworks or standards (TFLite, Keras, onnx, etc.)
+
+        7. [onnx](https://pytorch.org/docs/stable/onnx.html)
+        8. [nobuco](https://github.com/AlexanderLutsenko/nobuco)
+
 1. Qualcomm
 
    1. [Qualcomm AI Direct Engine SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk)
@@ -30,6 +40,9 @@ Machine Learning On-Device Universe
   
 1. Huawei Mobile NPU
     1. [Huawei HiAI](https://developer.huawei.com/consumer/en/doc/hiai-Guides/introduction-0000001053217795)
+
+1. TensorFlow
+   Contributions are welcome 🥺
 
 ## On-Device AI, CPU & GPU-based AI
 
