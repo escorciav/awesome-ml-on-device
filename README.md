@@ -32,8 +32,13 @@ Machine Learning On-Device Universe
    1. [Qualcomm AI Direct Engine SDK](https://www.qualcomm.com/developer/software/qualcomm-ai-engine-direct-sdk)
        1. [QNN docs](https://docs.qualcomm.com/bundle/publicresource/topics/80-63442-50/introduction.html)
    2. [Qualcomm Neural Processing SDK for AI](https://developer.qualcomm.com/hardware/qualcomm-innovators-development-kit/qualcomm-neural-processing-sdk-ai)
+   3. [llama3, ollama, executorch](https://www.qualcomm.com/news/onq/2024/09/qualcomm-partners-with-meta-to-support-llama-3-point-2-big-deal-for-on-device-ai)
+
+1. [Exo](https://github.com/exo-explore/exo)
 
 2. Apache TVM
+
+1. [ggml]([https://github.com/exo-explore/exo](https://huggingface.co/blog/introduction-to-ggml))
 
 1. TensorRT
    1. [Supercharge Your PyTorch Image Models with ONNX and TensorRT](https://dicksonneoh.com/portfolio/supercharge_your_pytorch_image_models/): Optimize PyTorch image models using ONNX Runtime and TensorRT, achieving up to 8x faster inference speeds.
